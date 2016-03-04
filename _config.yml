@@ -1,0 +1,28 @@
+name: davidwengertsman
+favicon: null
+layout_spectrum: 0.053587155882269144
+typography_spectrum: 0.10559119703248143
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.4760012535843998
+  lightness: 0.9395291549153626
+  saturation: 0.8749608029611409
+  rhythmicContrast: 0.3004906240385026
+purpose: []
